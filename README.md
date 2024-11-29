@@ -1,5 +1,5 @@
-                                  **Hi, I am Sanjay Badiger**
-                            **a passioante Data Analyst from India.**
+**Hi, I am Sanjay Badiger**
+**a passioante Data Analyst from India.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-badiger) 
