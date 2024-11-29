@@ -18,7 +18,7 @@
   - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 * Data Visualization tool-->
   - ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-  - ![MS Excel](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=msexcel&logoColor=black)
+  - ![MS Excel](https://img.shields.io/badge/excel-F2C811?style=flat&logo=excel&logoColor=black)
 * Python for Data Analytics-->
   - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
   - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
