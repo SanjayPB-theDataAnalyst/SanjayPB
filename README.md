@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Data Analyst having expertise in Excel, Power BI and SQL.
+I am a passioante Data Analyst having expertise in Excel, Power BI and SQL.
 
 
 ## 🌐 Socials:
