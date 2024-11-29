@@ -12,7 +12,7 @@
 ## 🌐 Connect me @ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-badiger) 
 
 
-## 💻 Tech Tools known:
+## 💻 Proficient in below technology:
 * ### Database - Structured Query Language(SQL) tool:
     - ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
     - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
