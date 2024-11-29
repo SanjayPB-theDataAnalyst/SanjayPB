@@ -1,4 +1,4 @@
-#  Hi 👋, I am Sanjay Badiger
+# Hi 👋, I am Sanjay Badiger
 
 ### A passioante Data Analyst from India.
 
