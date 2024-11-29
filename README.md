@@ -10,7 +10,7 @@
 * 📧 Feel free to reach me out at - [ sanjaypb@yahoo.com ]
 
 
-## 💻 Proficient in below technology:
+## 💻 Technology proficiency in:
 * ### Database - Structured Query Language(SQL) tool:
     - ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
     - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
@@ -31,10 +31,14 @@
 
 ### Thank you for reading me 🙂
 ## 🌐 Connect me @ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-badiger) 
+*
+*
+*
+*
 
 
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SanjayPB-theDataAnalyst&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SanjayPB-theDataAnalyst&theme=default_repocard&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayPB-theDataAnalyst&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
