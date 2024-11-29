@@ -1,6 +1,6 @@
 #  Hi 👋, I am Sanjay Badiger
 
-### - a passioante Data Analyst from India.
+### A passioante Data Analyst from India.
 
 
 * I am open to work.
