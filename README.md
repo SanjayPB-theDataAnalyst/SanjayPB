@@ -9,8 +9,6 @@
   
 * 📧 Feel free to reach me out at - [ sanjaypb@yahoo.com ]
 
-## 🌐 Connect me @ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-badiger) 
-
 
 ## 💻 Proficient in below technology:
 * ### Database - Structured Query Language(SQL) tool:
@@ -32,6 +30,7 @@
 
 
 ### Thank you for reading me 🙂
+## 🌐 Connect me @ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-badiger) 
 
 
 
