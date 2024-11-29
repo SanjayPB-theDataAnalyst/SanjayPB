@@ -7,8 +7,7 @@
   
 * 📑 Check out my resume here-[My Resume](https://drive.google.com/file/d/1nDRSgo6uSDDxwaVu6-4Dje0N4YCpH4Ix/view?usp=drive_link)
   
-* 📧 Feel free to reach me out at - [sanjaypb@yahoo.com](sanjaypb@yahoo.com)
-
+* 📧 Feel free to reach me out at -[ sanjaypb@yahoo.com ]
 
 ## 🌐 Connect me @
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-badiger) 
