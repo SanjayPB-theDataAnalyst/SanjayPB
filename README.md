@@ -30,7 +30,7 @@
 
 
 ### Thank you for reading me 🙂
-## 🌐 Connect me @ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-badiger) 
+## 🌐 Connect me @ ========> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-badiger) 
 *
 *
 *
