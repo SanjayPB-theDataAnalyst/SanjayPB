@@ -7,7 +7,7 @@
   
 * 📑 Check out my resume here-[My Resume](https://drive.google.com/file/d/1nDRSgo6uSDDxwaVu6-4Dje0N4YCpH4Ix/view?usp=drive_link)
   
-* 📫 Feel free to reach me out at -[sanjaypb@yahoo.com]
+* 📧 Feel free to reach me out at -[sanjaypb@yahoo.com]
 
 
 ## 🌐 Connect me @
@@ -32,9 +32,10 @@
 * Data based solutions
 
 
-### Thank you for reading me,
-Sanjay Badiger
- 
+### Thank you for reading me 🙂
+
+
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SanjayPB-theDataAnalyst&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SanjayPB-theDataAnalyst&theme=default_repocard&hide_border=true)<br/>
