@@ -1,9 +1,14 @@
 ##  Hi 👋, I am Sanjay Badiger
 
 ### a passioante Data Analyst from India Google :india:.
+
 * I am open to work.
-* 📑 Check out my resume here-[My Resume](https://drive.google.com/drive/folders/1AToTA7ryUqnTvCA-GrEbNoc12u7hp4Bm)
+  
+* 📑 Check out my resume here-[My Resume](https://drive.google.com/file/d/1nDRSgo6uSDDxwaVu6-4Dje0N4YCpH4Ix/view?usp=drive_link)
+  
 * 📫 Reach out to me at -[sanjaypb@yahoo.com]
+
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-badiger) 
 
