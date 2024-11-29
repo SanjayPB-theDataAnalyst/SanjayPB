@@ -1,12 +1,13 @@
 ##  Hi 👋, I am Sanjay Badiger
 
 ### a passioante Data Analyst from India Google :india:.
-
-
+* I am open to work.
+* 📑 Check out my resume here-[My Resume](https://drive.google.com/drive/folders/1AToTA7ryUqnTvCA-GrEbNoc12u7hp4Bm)
+* 📫 Reach out to me at -[sanjaypb@yahoo.com]
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-badiger) 
 
-## Tools known
+## 💻Tech Tools known:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)   ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SanjayPB-theDataAnalyst&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
