@@ -9,8 +9,8 @@
   
 * 📧 Feel free to reach me out at - [ sanjaypb@yahoo.com ]
 
-## 🌐 Connect me @
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-badiger) 
+## 🌐 Connect me @ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-badiger) 
+
 
 ## 💻 Tech Tools known:
 * ### Database - Structured Query Language(SQL) tool:
