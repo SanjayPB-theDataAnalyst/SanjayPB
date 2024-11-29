@@ -1,6 +1,8 @@
-### Hi👋, I am Sanjay Badiger
+                                            ### Hi👋, I am Sanjay Badiger
 
-### a passioante Data Analyst from India Google :india:.
+                                
+                                ### a passioante Data Analyst from India Google :india:.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-badiger) 
